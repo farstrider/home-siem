@@ -6,4 +6,4 @@
 #  path.config: "/etc/logstash/conf.d/*.conf"
 
 - pipeline.id: router
-  path.config: "/etc/logstash/conf.d/30-netgear_r7800.conf"
+  path.config: "/etc/logstash/conf.d/dd-wrt.conf"
