@@ -1,6 +1,6 @@
 ![Network Dashboard](docs/images/Network_Overview_Elastic.png "Network Dashboard")
 
-#Introduction
+# Introduction
 
 I created this SIEM system to monitor my home network, and I hope it may prove useful for others who may want to learn more about what's actually happening on their networks.
 
